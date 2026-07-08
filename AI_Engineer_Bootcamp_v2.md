@@ -37,7 +37,7 @@ feature/dayXX-topic → Commit → Pull Request → Review → Merge
 Python for AI Engineers
 
 Week 1 - Day 1 Python Basics ✅ - Day 2 Control Flow ✅ - Day 3
-Functions - Day 4 Modules - Day 5 Mini Project
+Functions ✅ - Day 4 Modules ✅ - Day 5 Mini Project
 
 Week 2 - OOP - Dataclass - Composition - Inheritance
 
@@ -104,11 +104,39 @@ duplicated code
 
 ------------------------------------------------------------------------
 
+## Day 3 Completed
+
+Topics - Functions - Parameters - Return - Scope - Default Parameters - *args - **kwargs - Lambda - Type Hints (intro) - Docstrings
+
+Projects - hello.py - scope_demo.py - math_utils.py - calculator_function.py - Modular ATM Refactor
+
+Code Review Score: 84/100
+
+Strengths - Clean separation of tasks into functions - Introduction of scopes
+
+Need Improvement - Missing robust type hinting and docstrings - No user input validation inside function boundaries
+
+------------------------------------------------------------------------
+
+## Day 4 Completed
+
+Topics - Modules - Packages - JSON Persistence - Absolute File Paths - Import Mechanics - Separation of Concerns
+
+Projects - main.py - temperature.py - utils/converter.py - utils/finance.py - utils/math_untils.py - student.json - atm/ package (auth.py, banking.py, main.py, storage.py, ui.py, account.json)
+
+Code Review Score: 85/100
+
+Strengths - Solid package organization, correct usage of absolute paths for JSON persistence, clean menu loop structure.
+
+Need Improvement - Decoupling user I/O (input/print) from mathematical and utility functions, input type checking, error/exception handling, standard float usage in finance.
+
+------------------------------------------------------------------------
+
 # Current Git Workflow
 
 Repository: https://github.com/embrizo/python-learning
 
-Branches - main - feature/day02-control-flow
+Branches - main - feature/day02-control-flow - feature/day04-modules-json
 
 Workflow Feature Branch → Pull Request → Merge
 
@@ -118,30 +146,21 @@ Excellent practice.
 
 # Next Lesson
 
-Month 1 Day 3
+Month 1 Day 5
 
-Topics - Functions - Parameters - Return - Scope - Default Parameters -
-\*args - \*\*kwargs - Lambda - Type Hints (intro) - Docstrings
+Topics - Week 1 Mini Project: AI Model Registry & Experiment Tracker CLI
 
 Main Project
 
-Refactor ATM
+Build a modular, robust CLI tool for ML/AI engineers to log, search, filter, and summarize model training experiments, persisting data to JSON with validation and complete type hinting.
 
-From:
-
-One large file
-
-To:
-
-login() deposit() withdraw() show_balance() show_history() main()
-
-Goal: Write modular, production-quality Python.
+Goal: Apply Week 1 concepts (Variables, Control Flow, Functions, Modules & JSON) in a cohesive, production-grade project.
 
 ------------------------------------------------------------------------
 
 # Overall Scores
 
-Day 1 : 79/100 Day 2 : 82/100
+Day 1: 79/100 | Day 2: 82/100 | Day 3: 84/100 | Day 4: 85/100
 
 Status: On Track ✅
 
@@ -153,13 +172,12 @@ Continue my AI Engineer Bootcamp v2.
 
 Use this document as the single source of truth.
 
-Current progress: Month 1 Day 2 completed.
+Current progress: Month 1 Day 4 completed.
 
 Do NOT repeat previous lessons.
 
-Continue directly with Month 1 Day 3.
+Continue directly with Month 1 Day 5.
 
-Teach at Junior Python Engineer -\> AI Engineer level.
+Teach at Junior Python Engineer -> AI Engineer level.
 
-Include: - Theory - Live Coding - Exercises - Homework - Senior Code
-Review - Refactoring - Interview Questions
+Include: - Theory - Live Coding - Exercises - Homework - Senior Code Review - Refactoring - Interview Questions

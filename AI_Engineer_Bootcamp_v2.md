@@ -148,13 +148,13 @@ Excellent practice.
 
 Month 1 Day 5
 
-Topics - Week 1 Mini Project: AI Model Registry & Experiment Tracker CLI
+Topics - Object-Oriented Programming (OOP): Class, Object, Constructor, Methods, Encapsulation
 
 Main Project
 
-Build a modular, robust CLI tool for ML/AI engineers to log, search, filter, and summarize model training experiments, persisting data to JSON with validation and complete type hinting.
+Refactor the ATM CLI project from a modular function-based design to a complete Object-Oriented architecture using an Account class. Eliminate global variables in storage, add type hints, and docstrings.
 
-Goal: Apply Week 1 concepts (Variables, Control Flow, Functions, Modules & JSON) in a cohesive, production-grade project.
+Goal: Write cohesive, encapsulated Python OOP code.
 
 ------------------------------------------------------------------------
 

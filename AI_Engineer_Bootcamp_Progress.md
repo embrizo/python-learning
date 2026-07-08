@@ -64,7 +64,7 @@ Azure + AWS + Kubernetes + Portfolio
 
 ## ❌ Not Started
 
-Month 1 Day 5 - Mini Project: AI Model Registry & Experiment Tracker CLI
+Month 1 Day 5 - Object-Oriented Programming (Class, Object, Constructor, Methods, Encapsulation, Refactor ATM to Account class)
 
 ------------------------------------------------------------------------
 

@@ -1,0 +1,8 @@
+{
+    "username": "Admin",
+    "password": "1111",
+    "balance": 10000.0,
+    "history": [
+        5000.0
+    ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Pattapon",
+        "password": "5555",
+        "balance": 20000.0,
+        "history": [
+            10000.0
+        ]
+    },
+    {
+        "username": "admin",
+        "password": "1111",
+        "balance": 10000,
+        "history": []
+    }
+]

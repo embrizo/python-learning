@@ -28,6 +28,7 @@ class Account:
 
     def change_password(self, new_password: str) -> None:
         """Change the account password."""
+        
         self.__password = new_password
 
     def deposit(self, amount: float) -> None:

@@ -1,0 +1,94 @@
+2026-07-15 18:06:32,206 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,207 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,211 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,211 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,211 - BankCLI - ERROR - Registration failed. Username 'alice' already exists.
+2026-07-15 18:06:32,213 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,213 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,214 - BankCLI - INFO - User 'alice' logged in successfully.
+2026-07-15 18:06:32,216 - BankCLI - ERROR - Login failed. Account for username 'unknown' not found.
+2026-07-15 18:06:32,219 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,219 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,219 - BankCLI - ERROR - Login failed for user 'alice'. Incorrect password.
+2026-07-15 18:06:32,221 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,221 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,222 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,222 - BankCLI - INFO - Deposit: User 'alice' deposited 50.00 successfully.
+2026-07-15 18:06:32,223 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,223 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,224 - BankCLI - ERROR - Deposit failed for user 'alice': Deposit amount must be positive.
+2026-07-15 18:06:32,224 - BankCLI - ERROR - Deposit failed for user 'alice': Deposit amount must be positive.
+2026-07-15 18:06:32,225 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,225 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,226 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,226 - BankCLI - INFO - Withdraw: User 'alice' withdrew 40.00 successfully.
+2026-07-15 18:06:32,228 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,228 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,228 - BankCLI - ERROR - Withdrawal failed for user 'alice': Insufficient balance. Cannot withdraw 150.00 from 100.00.
+2026-07-15 18:06:32,231 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,231 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,232 - BankCLI - ERROR - Withdrawal failed for user 'alice': Withdrawal amount must be positive.
+2026-07-15 18:06:32,234 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,234 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,235 - BankCLI - INFO - Successfully saved account: bob
+2026-07-15 18:06:32,235 - BankCLI - INFO - User 'bob' registered successfully with balance 50.00.
+2026-07-15 18:06:32,237 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,238 - BankCLI - INFO - Successfully saved account: bob
+2026-07-15 18:06:32,238 - BankCLI - INFO - Transfer: 30.00 transferred from 'alice' to 'bob' successfully.
+2026-07-15 18:06:32,241 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,241 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,242 - BankCLI - INFO - Successfully saved account: bob
+2026-07-15 18:06:32,242 - BankCLI - INFO - User 'bob' registered successfully with balance 50.00.
+2026-07-15 18:06:32,242 - BankCLI - ERROR - Transfer failed from 'alice' to 'bob': Insufficient balance. Cannot withdraw 120.00 from 100.00.
+2026-07-15 18:06:32,244 - BankCLI - INFO - Successfully saved account: alice
+2026-07-15 18:06:32,244 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-15 18:06:32,244 - BankCLI - ERROR - Transfer failed from 'alice' to 'alice': Cannot transfer to the same account.
+2026-07-15 18:06:32,246 - BankCLI - INFO - Successfully saved account: charlie
+2026-07-15 18:06:32,246 - BankCLI - INFO - Successfully saved account: charlie
+2026-07-16 13:04:24,842 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,843 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,845 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,845 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,846 - BankCLI - ERROR - Registration failed. Username 'alice' already exists.
+2026-07-16 13:04:24,847 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,847 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,848 - BankCLI - INFO - User 'alice' logged in successfully.
+2026-07-16 13:04:24,850 - BankCLI - ERROR - Login failed. Account for username 'unknown' not found.
+2026-07-16 13:04:24,852 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,852 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,852 - BankCLI - ERROR - Login failed for user 'alice'. Incorrect password.
+2026-07-16 13:04:24,853 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,853 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,854 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,854 - BankCLI - INFO - Deposit: User 'alice' deposited 50.00 successfully.
+2026-07-16 13:04:24,856 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,856 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,857 - BankCLI - ERROR - Deposit failed for user 'alice': Deposit amount must be positive.
+2026-07-16 13:04:24,857 - BankCLI - ERROR - Deposit failed for user 'alice': Deposit amount must be positive.
+2026-07-16 13:04:24,858 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,858 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,859 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,860 - BankCLI - INFO - Withdraw: User 'alice' withdrew 40.00 successfully.
+2026-07-16 13:04:24,863 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,863 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,864 - BankCLI - ERROR - Withdrawal failed for user 'alice': Insufficient balance. Cannot withdraw 150.00 from 100.00.
+2026-07-16 13:04:24,867 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,867 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,867 - BankCLI - ERROR - Withdrawal failed for user 'alice': Withdrawal amount must be positive.
+2026-07-16 13:04:24,869 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,869 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,870 - BankCLI - INFO - Successfully saved account: bob
+2026-07-16 13:04:24,870 - BankCLI - INFO - User 'bob' registered successfully with balance 50.00.
+2026-07-16 13:04:24,871 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,871 - BankCLI - INFO - Successfully saved account: bob
+2026-07-16 13:04:24,871 - BankCLI - INFO - Transfer: 30.00 transferred from 'alice' to 'bob' successfully.
+2026-07-16 13:04:24,874 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,874 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,876 - BankCLI - INFO - Successfully saved account: bob
+2026-07-16 13:04:24,876 - BankCLI - INFO - User 'bob' registered successfully with balance 50.00.
+2026-07-16 13:04:24,876 - BankCLI - ERROR - Transfer failed from 'alice' to 'bob': Insufficient balance. Cannot withdraw 120.00 from 100.00.
+2026-07-16 13:04:24,880 - BankCLI - INFO - Successfully saved account: alice
+2026-07-16 13:04:24,880 - BankCLI - INFO - User 'alice' registered successfully with balance 100.00.
+2026-07-16 13:04:24,880 - BankCLI - ERROR - Transfer failed from 'alice' to 'alice': Cannot transfer to the same account.
+2026-07-16 13:04:24,882 - BankCLI - INFO - Successfully saved account: charlie
+2026-07-16 13:04:24,882 - BankCLI - INFO - Successfully saved account: charlie
